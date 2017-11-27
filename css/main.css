@@ -76,7 +76,8 @@ footer .columna {
 
 .flex {
     display: flex;
-    padding: 4em;
+    padding-top: 3em;
+    padding-bottom: 3em;
     background-color: #93F082;
     color: white;
     font-size: 1.2em;
